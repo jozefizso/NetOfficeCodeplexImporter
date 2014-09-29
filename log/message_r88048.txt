@@ -1,0 +1,1 @@
+- add missing main tests (tortoise svn is pure evil)

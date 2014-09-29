@@ -1,0 +1,5 @@
+- remove browsable attribute from all coclass constructors
+- add browasble attribute to COM.UnderlyingTypeName
+- add Examples\Misc\C#\GetRunningOutlookInstance.sln
+
+  GetRunningOutlookInstance example is related to: http://netoffice.codeplex.com/discussions/259811

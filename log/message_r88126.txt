@@ -1,0 +1,1 @@
+- add Global Module to excel/word/outlook/powerpoint/access source

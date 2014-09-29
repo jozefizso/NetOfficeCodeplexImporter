@@ -1,0 +1,4 @@
+- add a third type cache (more performance)
+- IntelliSense shows now properties are Get or Get/Set
+- improve mass tests
+- update release tag 1.1 (only here, not on the website)

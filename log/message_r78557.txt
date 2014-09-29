@@ -1,0 +1,3 @@
+- add performance tests
+- add ms-project 2007,2010 support
+- remove release tags folder

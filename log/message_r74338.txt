@@ -1,0 +1,2 @@
+- fix svn trouble word-example01 (my bad)
+- fix some comments in word examples

@@ -1,0 +1,4 @@
+- update source
+- update assemblies
+- update reference analyzer
+- update NetOffice 1.6.1.xml.rar => NetOffice 1.7.0.rar

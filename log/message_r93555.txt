@@ -1,0 +1,2 @@
+- add MSProject to DeveloperToolbox->AddinGuard
+- add Visio to DeveloperToolbox->AddinGuard

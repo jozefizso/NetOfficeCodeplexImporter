@@ -1,0 +1,4 @@
+- add 2 concept tests (running applications, OnDispose event)
+- new layout for the developer toolbox project wizard
+- fix minor fixes
+- delete 1.5.1 source

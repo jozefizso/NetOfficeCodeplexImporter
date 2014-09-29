@@ -1,0 +1,1 @@
+- change tutorials plattform target

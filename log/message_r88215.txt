@@ -1,0 +1,1 @@
+- delete gzip compressor in NetOffice.DeveloperToolbox->OfficeCompatibility(not necessary now)

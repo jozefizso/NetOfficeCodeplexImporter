@@ -1,0 +1,1 @@
+- update NOToolsTests.CSharpTextEditor1

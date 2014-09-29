@@ -1,0 +1,1 @@
+- update VS Project Wizard (VS Extension) to NetOffice 1.5

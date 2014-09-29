@@ -1,0 +1,1 @@
+- fix customize UI examples(last example in any office product). created menu items was not temporary created. fixed!

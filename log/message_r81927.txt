@@ -1,0 +1,3 @@
+- create developer toolbox
+- delete developer utils
+- mass tests & performance tests now in folder 'tests'

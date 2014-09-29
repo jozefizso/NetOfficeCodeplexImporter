@@ -1,0 +1,3 @@
+- change release tag 0.8 (excel example01 c#)
+- add mass tests folder
+- add excel mass test (write 1 million cells)

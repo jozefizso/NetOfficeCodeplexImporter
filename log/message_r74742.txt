@@ -1,0 +1,1 @@
+- update release tag 0.8 with fixed examples

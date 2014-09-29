@@ -1,0 +1,2 @@
+- improve Dispose performance
+- update source code to release 1.2

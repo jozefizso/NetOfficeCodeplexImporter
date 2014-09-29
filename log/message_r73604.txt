@@ -1,0 +1,2 @@
+- add more example projects
+- change word addin example projects (customize context)

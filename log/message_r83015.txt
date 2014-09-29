@@ -1,0 +1,2 @@
+Developer Toolbox [RegistryEditor, AddinGuard]
+- add support for x86 office on x64 systems(Registry:Wow6432Node)

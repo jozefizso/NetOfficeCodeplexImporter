@@ -1,0 +1,2 @@
+- fix .NET4 Api Source. remove optional parameter attribute.
+commit ist related to: http://netoffice.codeplex.com/discussions/259502

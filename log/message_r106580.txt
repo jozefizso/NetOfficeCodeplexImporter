@@ -1,0 +1,2 @@
+Issue #20707 VS Project Wizard creates project in wrong folder (option Custom)
+Fixed.

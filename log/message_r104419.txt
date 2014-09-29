@@ -1,0 +1,3 @@
+[Regular Commit]
+- new option for NOTools.CSharpTextEditor (AllowAddFileReferences - allow user to add non-gac references from local file system)
+- some minor improvements

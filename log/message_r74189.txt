@@ -1,0 +1,2 @@
+- update NetOffice.DeveloperUtils
+- change Mono.Cecil.dll from 0.6. to 0.9

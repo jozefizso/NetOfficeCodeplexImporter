@@ -1,0 +1,7 @@
+- add new source
+- fix conversion bug
+- add MS-Visio support
+- change Initialize() implementation
+- add some Initialize overloads
+- add Settings.EnableDebugEvents
+- change 3.5 / 4.0 to client profile

@@ -1,0 +1,1 @@
+- update examples/tutorials to 1.6.1

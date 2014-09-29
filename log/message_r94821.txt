@@ -1,0 +1,2 @@
+- fix issue #18563
+- add *.snk files

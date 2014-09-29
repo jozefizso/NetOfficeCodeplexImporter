@@ -1,0 +1,2 @@
+- update NOBuildTools.ReferenceAnalyzer
+- add ReferenceIndex.xml.rar

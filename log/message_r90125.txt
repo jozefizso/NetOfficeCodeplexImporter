@@ -1,0 +1,4 @@
+- add operator overloads for "==" and "!="
+- add Settings.EnableOperatorOverlads(true by default)
+- add Tests\Concept Tests\OperatorOverloadsCSharp
+- add Tests\Concept Tests\OperatorOverloadsVB

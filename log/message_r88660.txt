@@ -1,0 +1,2 @@
+- change VS ProjectWizard Template Names to english language
+- change VS ProjectWizard from .Net 4 Client Profile to .Net 3.5 Client Profile (VS 2008 issue)

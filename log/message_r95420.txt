@@ -1,0 +1,4 @@
+- finish Twitter Addin
+- update Tools namespace
+- add Build Tools
+- add Addin Removal Tool

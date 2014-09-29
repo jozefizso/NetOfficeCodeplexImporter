@@ -1,0 +1,1 @@
+- update VS ProjectWizard Templates(Addins)

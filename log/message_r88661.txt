@@ -1,0 +1,1 @@
+- change project wizard setup launch condition to .Net 3.5 Client Profile

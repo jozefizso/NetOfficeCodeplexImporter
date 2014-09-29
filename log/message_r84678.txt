@@ -1,0 +1,1 @@
+- change collection classes interface IEnumerable => IEnumerable<T>

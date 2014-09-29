@@ -1,0 +1,1 @@
+- add CodeBase registry entry in COM RegisterFunction in some RibbonAddin examples are missing. fixed!

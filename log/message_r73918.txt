@@ -1,0 +1,1 @@
+- modify SupportByLibrary Attribute partial commit (codeplex svn is a stupid bitch)

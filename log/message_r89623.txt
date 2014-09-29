@@ -1,0 +1,3 @@
+- update current source code to NetOffice 1.5 Release Candidate
+- Initialize() call was not longer necesarry
+- rename LateBindingApi.Core to NetOffice

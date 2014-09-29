@@ -1,0 +1,16 @@
+- add namespaces:
+NetOffice.Tools
+NetOffice.ExcelApi.Tools
+NetOffice.WordApi.Tools
+NetOffice.OutlookApi.Tools
+NetOffice.PowerPointApi.Tools
+NetOffice.AccessApi.Tools
+NetOffice.MSProjectApi.Tools
+NetOffice.VisioApi.Tools
+
+- add examples (use Tools namespace):
+Google Translation Addin (Excel)
+Wikipedia Addin (Word)
+Twitter Addin (Outlook, not done)
+
+- change static casts in SinkHelper methods to Convert.ToXXX

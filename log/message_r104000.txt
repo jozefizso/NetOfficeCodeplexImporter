@@ -1,0 +1,3 @@
+- add bool Settings.EnbableProxyCountChannel{get;set;}
+- add string Settings.ProxyCountChannel{get;set;}
+[developers can use these option to observe the current comproxy count in the appliaction or addin with the NetOffice Console Monitor]

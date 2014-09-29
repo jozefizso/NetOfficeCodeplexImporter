@@ -1,0 +1,4 @@
+- update souce
+- change COMAddin static errorhandler to virtual/override
+- extend RunningObjectTable
+- add COMAddin tweaks

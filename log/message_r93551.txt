@@ -1,0 +1,5 @@
+- add MSProject to DeveloperToolbox->ProjectWizard
+- add MSProject to DeveloperToolbox->OfficeCompatibility
+- add Visio to DeveloperToolbox->ProjectWizard
+- add Visio to DeveloperToolbox->OfficeCompatibility
+- add 'Generate CustomTaskPane' to DeveloperToolbox->ProjectWizard

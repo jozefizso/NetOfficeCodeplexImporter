@@ -1,0 +1,2 @@
+[Regular Commit]
+- update source(automatic proxychannel name) /examples(typo)

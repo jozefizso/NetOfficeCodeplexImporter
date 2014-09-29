@@ -1,0 +1,2 @@
+- update developer toolbox office compatibility
+- new look for the report panel (visual studio style)

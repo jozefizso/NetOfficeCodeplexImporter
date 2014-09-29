@@ -1,0 +1,2 @@
+[Regular Commit]
+- update NOTools.CSharpTextEditor(xml source docu support)

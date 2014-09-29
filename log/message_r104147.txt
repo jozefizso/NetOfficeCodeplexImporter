@@ -1,0 +1,2 @@
+[Bugfix Commit]
+-upate source/assemblies NetOffice.dll 1.6.1 to 1.7.0

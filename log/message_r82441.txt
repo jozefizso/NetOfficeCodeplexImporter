@@ -1,0 +1,5 @@
+- update developer toolbox office compatibility report panelNativeView
+- resize behavior
+- remove get_ and set_ for properties in assembly exlorer
+- show get and set for a property in a single property node now
+- show field names for enums now and not the number value

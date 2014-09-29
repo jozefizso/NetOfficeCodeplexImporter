@@ -1,0 +1,2 @@
+- add NOTools.ComponentModel
+- add NOToolsTests.CSharpTextEditor2

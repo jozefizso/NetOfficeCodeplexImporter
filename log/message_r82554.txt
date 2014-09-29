@@ -1,0 +1,3 @@
+- update OfficeCompatibility support info database to NetOffice 1.3 (coming soon)
+- fix OfficeCompatibility asssembly scanner bug with method calls from paramater objects
+- add entitiy icons from visual studio (field, method, property,...)

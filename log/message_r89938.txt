@@ -1,0 +1,1 @@
+- fix vs project wizard bug (visual studio crash while shutdown, c# only)

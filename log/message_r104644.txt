@@ -1,0 +1,5 @@
+[Regular Commit]
+- add Tools
+- add NOToolstests.ComponentModel1
+- update NOToolsTests.CSharpTextEditor2
+- update NetOffice COM Addin Examples

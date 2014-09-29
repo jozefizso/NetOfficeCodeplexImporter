@@ -1,0 +1,7 @@
+- change source code to NetOffice Release 1.3 / Developer Toolbox 0.9
+- add custom enumerators for 64 types [issue #16739]
+- additional method overloads for all methods with optional parameters
+- any object in NetOffice implements 'bool EntityIsAvailable(string name)' to check for specific property or method is available at runtime in current version
+- improve examples
+- add 1 tutorial
+- add 2 misc examples

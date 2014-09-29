@@ -1,0 +1,4 @@
+- update developer toolbox
+- fix method invoke bug
+- add word test08.cs/test08.vb
+- update source/assemblies to 1.5.2

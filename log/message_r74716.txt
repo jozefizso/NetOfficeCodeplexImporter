@@ -1,0 +1,3 @@
+- update LateBindingApi.Core.dll
+- fix issue 15922 (AccessViolationException) once and for all
+- change release tag

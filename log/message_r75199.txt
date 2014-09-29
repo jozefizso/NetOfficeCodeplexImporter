@@ -1,0 +1,3 @@
+- fix word examples(ClassicAddin->normal.dotm and Example01)
+- change alle examples from MTAThread to STAThread
+- update release tag 0.9

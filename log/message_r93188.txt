@@ -1,0 +1,3 @@
+- update source/assemblies/examples
+- add office 2013 support
+- improve optional parameter support

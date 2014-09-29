@@ -1,0 +1,2 @@
+add Examples\Misc\VB\SuperAddin.sln
+add Examples\Misc\VB\GetRunningOutlookInstance.sln

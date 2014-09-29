@@ -1,0 +1,2 @@
+- fix addin examples
+- split assembly folder to Any CPU and x64

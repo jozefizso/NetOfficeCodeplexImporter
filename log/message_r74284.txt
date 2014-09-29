@@ -1,0 +1,3 @@
+- add ///<remark> tag for enum members
+- remove ref qualifiers
+ methods with float parameter(s) currently not working!

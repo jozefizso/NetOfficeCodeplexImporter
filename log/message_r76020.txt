@@ -1,0 +1,3 @@
+- remove x64 assembly folders(not necessary)
+- fix event bridge bug(related to http://netoffice.codeplex.com/discussions/262334)
+- update release tag

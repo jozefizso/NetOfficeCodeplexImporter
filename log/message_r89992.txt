@@ -1,0 +1,1 @@
+- [SVN Trouble] add tests/examples/tutorials/wizard

@@ -1,0 +1,1 @@
+- add description files to word examples

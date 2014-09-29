@@ -1,0 +1,4 @@
+- fix issue 16324 (excel types are null or you got an exception while using)
+- improve word example07
+- add a second type cache (more performance)
+- update release tag 1.1

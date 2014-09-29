@@ -1,0 +1,4 @@
+- c# excel example01 was a word example(mistake) fixed!
+ATTENTION!!!
+All examples include COMAddIns which will be registered while compiling
+Exclude Addins from Solution (in the context menu) if you do not want that

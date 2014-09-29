@@ -1,0 +1,1 @@
+- remove EnableEvents call in all projects (true by default now)

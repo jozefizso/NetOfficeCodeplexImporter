@@ -1,0 +1,1 @@
+- fix developer toolbox office compatibility, 73 test assemblies successfully.

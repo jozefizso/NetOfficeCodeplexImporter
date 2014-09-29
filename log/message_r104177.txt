@@ -1,0 +1,2 @@
+[Regular Commit]
+- update ConsoleMonitor(better clear/remove behavior)
